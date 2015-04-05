@@ -26,6 +26,7 @@ board.generate(length, height);
 
 ###Available function for the board:
 * `generate(length, height);`
+⋅⋅* max length is 40 and max height is 20 
 * `place(object, x, y);`
 * `Remove();`
 
