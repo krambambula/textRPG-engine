@@ -27,6 +27,7 @@ board.generate(length, height);
 ###Available function for the board:
 * `generate(length, height);`
 * `place(object, x, y);`
+* `placePlayer();`
 * `Remove();`
 
 Bitcoin donations: 
