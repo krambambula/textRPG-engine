@@ -30,5 +30,7 @@ board.generate(length, height);
 * `placePlayer();`
 * `Remove();`
 
+Help me pay my hardware and hardwork on this software! (of course also the coffee ;) )
 Bitcoin donations: 
 37c1ZxmSLtr36ZnSc8NfBSH7r9NX8vbvVi
+
